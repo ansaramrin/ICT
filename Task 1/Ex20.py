@@ -1,0 +1,5 @@
+pressure = float(input("Enter the pressure in Pascals: "))
+volume = float(input("Enter the volume in Liters: "))
+temp = float(input("Enter the temperature in Celsium: "))
+amount_of_moles = (pressure * volume * 0.001) / (8.314 * (273.15 + temp))
+print("Amount of moles is:",round(amount_of_moles,1))
