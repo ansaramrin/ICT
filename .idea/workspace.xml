@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adbf60af-a618-4d2b-a404-a38a6125759d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP1 C++/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../PP1 C++/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP1 C++/endH.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../PP1 C++/endH.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2 Python/Endterm/tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PP2 Python/Endterm/tank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2 Python/snake2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PP2 Python/snake2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2 Python/tank/hit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2 Python/tank/shooting.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2 Python/tank/tank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2 Python/tanks/tanks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PP2 Python/tanks/tanks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Visual Studio Code" beforeDir="false" afterPath="$PROJECT_DIR$/../Visual Studio Code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/create_collection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/create_database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/delete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/drop_collection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/find.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/insert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/limit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/query.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/1/receive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/1/send.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/2/new_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/2/worker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/3/emit_log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/3/receive_logs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/4/emit_log_direct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/4/receive_logs_direct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/5/emit_log_topic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/5/receive_logs_topic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq/Снимок экрана 2020-04-29 в 22.58.33.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hB990GVzcjAO0WlZVKsmyhg6EB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Ex10">
+    <configuration name="Ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ex10" />
+        <item itemvalue="Python.Ex11" />
+        <item itemvalue="Python.Ex9" />
+        <item itemvalue="Python.Ex5" />
+        <item itemvalue="Python.Ex8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbf60af-a618-4d2b-a404-a38a6125759d" name="Default Changelist" comment="" />
+      <created>1599473463648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599473463648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="122" key="#Inspections" timestamp="1599581670774">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="354" y="122" key="#Inspections/0.23.1440.827@0.23.1440.827" timestamp="1599581670774" />
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599581830909">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1599581830909" />
+    <state x="456" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599473680288">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="456" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1599473680288" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom" timestamp="1599757597046">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1599757597046" />
+    <state width="1419" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1599653097595" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1599473792350" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center" timestamp="1599757597046">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1599757597046" />
+    <state width="1419" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1599653097594" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1599473792350" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left" timestamp="1599757597045">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1599757597045" />
+    <state width="1419" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1599653097594" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1599473792349" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right" timestamp="1599757597046">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1599757597046" />
+    <state width="1419" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1599653097595" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1599473792350" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1599583300475">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1599583300475" />
+    <state x="418" y="24" width="604" height="822" key="find.popup" timestamp="1599653708449">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="418" y="24" width="604" height="822" key="find.popup/0.23.1440.825@0.23.1440.825" timestamp="1599653708449" />
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1599660715648">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1599660715648" />
+  </component>
+</project>
